@@ -24,15 +24,19 @@ Contact: Includes our chapter’s Facebook, email, and instagram account informa
 
 CURRENTLY UNDER CONSTRUCTION: 
 
-Mentoring Tab: Right now it includes four tab, labeled “Home”, “About”, “Photos”, and “Calendar”. Jasleen Nuno is currently working on the Photos tab, where a photo gallery of pictures from our events/outings will be included.  
+Mentoring Tab: Right now it includes four tab, labeled “Home”, “About”, “Photos”, and “Calendar”. Jasleen Nuno is currently working on the Photos tab, where a photo gallery of pictures from our events/outings will be included. 
+
+Resources Tab: The current content needs to be added. The HTML is all screwed up, and we need to figure out how we want the content to be displayed. Do we want “Read More” buttons? Content also needs to be added. 
+
+Wisdom Tab: Here will be tidbits of advice from currently QuestBridge students.
+
+Home Page: Currently, the home page is just one picture, but I eventually would like for the front page to have a few pictures with differing text, sliding through. My idea is to have a few questies highlighted for their accomplishments there. As of now, only the javascript has been added for this portion of the website. 
 
 PLANS FOR CONSTRUCTION COMING SOON:
 
 Calendar Tab: A calendar for our events will be added under this tab. Fairly self explanatory - the plan is to use a bootstrap plugin.
 
-Mentoring Calendar Tab:  Same plans as our overall chapter calendar. Except some things will be excluded on this calendar. 
-
-Resources Tab: The current content needs to be added. The HTML is all screwed up, and we need to figure out how we want the content to be displayed. Do we want “Read More” buttons? Content also needs to be added. 
+Mentoring Calendar Tab: Same plans as our overall chapter calendar. Except some things will be excluded on this calendar.
 
 Events Tab: The Events tab will be edited to include a photo gallery instead so that it’s easier to add content. This will likely be done by Jasleen Nuno since she’s currently working on a photo gallery for the mentoring program.
 
