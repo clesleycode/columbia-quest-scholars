@@ -6,7 +6,7 @@ The website is built off of Twitter’s bootstrap, mainly because it’s easy to
 
 The main website is www.columbia.edu/cu/questscholars/ 
 
-As of now, the homepage has 7 tabs on the top with a picture of the quest board as the homepage. The tabs can be summarized as follows: 
+As of now, the homepage has 7 tabs on the top with a slide show of pictures as the homepage. The tabs can be summarized as follows: 
 
 About Us: Stays on the original homepage, and includes a short introduction to our chapter. It currently has three split up areas (labeled Academic, Professional, and Community Support) for us to add specifics of how example our QSN does each of those things.
 
@@ -29,8 +29,6 @@ Mentoring Tab: Right now it includes four tab, labeled “Home”, “About”, 
 Resources Tab: The current content needs to be added. The HTML is all screwed up, and we need to figure out how we want the content to be displayed. Do we want “Read More” buttons? Content also needs to be added. 
 
 Wisdom Tab: Here will be tidbits of advice from currently QuestBridge students.
-
-Home Page: Currently, the home page is just one picture, but I eventually would like for the front page to have a few pictures with differing text, sliding through. My idea is to have a few questies highlighted for their accomplishments there. As of now, only the javascript has been added for this portion of the website. 
 
 PLANS FOR CONSTRUCTION COMING SOON:
 
