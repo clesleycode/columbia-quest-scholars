@@ -6,7 +6,7 @@ The website is built off of Twitter’s bootstrap, mainly because it’s easy to
 
 The main website is www.columbia.edu/cu/questscholars/ 
 
-As of now, the homepage has 7 tabs on the top with a slide show of pictures as the homepage. The tabs can be summarized as follows: 
+As of now, the homepage has 7 tabs on the top with a slide show of pictures as the homepage. Note: Right now the slideshow contains the same three images. The tabs can be summarized as follows: 
 
 About Us: Stays on the original homepage, and includes a short introduction to our chapter. It currently has three split up areas (labeled Academic, Professional, and Community Support) for us to add specifics of how example our QSN does each of those things.
 
@@ -26,13 +26,13 @@ CURRENTLY UNDER CONSTRUCTION:
 
 Mentoring Tab: Right now it includes four tab, labeled “Home”, “About”, “Photos”, and “Calendar”. Jasleen Nuno is currently working on the Photos tab, where a photo gallery of pictures from our events/outings will be included. 
 
-Resources Tab: The current content needs to be added. The HTML is all screwed up, and we need to figure out how we want the content to be displayed. Do we want “Read More” buttons? Content also needs to be added. 
+Resources Tab: The current content needs to be added. The HTML is all screwed up, and we need to figure out how we want the content to be displayed. Do we want “Read More” buttons? Content also needs to be added. Mary Nosa is working on this part.
 
-Wisdom Tab: Here will be tidbits of advice from currently QuestBridge students.
+Calendar Tab: A calendar for our events will be added under this tab. Fairly self explanatory - the plan is to use a bootstrap plugin. Pratishta Yerakala is working on this currently. 
 
 PLANS FOR CONSTRUCTION COMING SOON:
 
-Calendar Tab: A calendar for our events will be added under this tab. Fairly self explanatory - the plan is to use a bootstrap plugin.
+Wisdom Tab: Here will be tidbits of advice from currently QuestBridge students.
 
 Mentoring Calendar Tab: Same plans as our overall chapter calendar. Except some things will be excluded on this calendar.
 
